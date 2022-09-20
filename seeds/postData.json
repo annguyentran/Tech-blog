@@ -1,0 +1,19 @@
+[
+    {
+    "title": "Post1",
+    "text": "cool post"
+    },
+
+    {
+        "title": "Post2",
+        "text": "cool post again" 
+
+    },
+
+    {
+        "title": "Post3",
+        "text": "cool post again again" 
+
+    }
+
+]
